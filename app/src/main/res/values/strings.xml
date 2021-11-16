@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotePad</string>
+    <string name="task_name">Task Name</string>
+    <string name="description">Task Description</string>
+    <string name="complete_date">Complete Date</string>
+    <string name="save">Save</string>
+    <string name="update_task">Update Task</string>
+    <string name="task">Task Name</string>
+    <string name="description_name">Task Description</string>
+    <string name="completed_date">Complete Date</string>
+    <string name="mark_as_finished">Completed</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="completed">Completed</string>
+</resources>
